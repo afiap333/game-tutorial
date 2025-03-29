@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Template name="NPCDialogue" src="project://database/Assets/art/NPCDialogue.uxml?fileID=9197481963319205126&amp;guid=61cb9dad6ba2a0343ba7445f0a76c975&amp;type=3#NPCDialogue" />
+    <ui:Instance template="NPCDialogue" name="NPCDialogue" style="position: absolute; height: 238px; width: 1246px; top: 338px; left: 134px; justify-content: center; align-items: center;" />
+</ui:UXML>
